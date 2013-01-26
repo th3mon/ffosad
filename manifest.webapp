@@ -1,0 +1,12 @@
+{
+    "name": "FAapp",
+    "developer": {
+        "name":"Przemysław 'th3mon' Szelenberger",
+        "url":"http://FAapp.szelenberger.pl"
+    },
+    "description":"Fuckin' Awesome App",
+    "launch_path": "/index.html",
+    "icons":{
+        "128":"/icon.png"
+    }
+}
