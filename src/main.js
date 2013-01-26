@@ -5,7 +5,37 @@
     $(function() {
         var
             request = navigator.mozApps.getSelf(),
-            $body = $(d.body);
+            $body = $(d.body),
+            getContent;
+
+        getContent = function(what) {
+            var
+                url = "http://synchronizemenustart.appspot.com/horoskop?sign=", //http://synchronizemenustart.appspot.com/horoskop?sign=1 - ID
+                content,
+                request;
+
+            request = $.ajax({
+                url: url + what,
+                jsonpCallback: "getMessage",
+                dataType: "jsonp"
+            });
+
+            request.done(function(obj) {
+                content = obj.message;
+
+                $("<div/>", {
+                    html: obj.message
+                }).appendTo(d.body);
+            });
+
+            request.fail(function(jqXHR, textStatus) {
+                $("<div/>", {
+                    html: textStatus
+                }).appendTo(d.body);                
+            });
+
+            return content;
+        };
 
         request.onsuccess = function() {
             var $installButton;
@@ -43,6 +73,8 @@
         request.onerror = function() {
             alert('Error checking installation status: ' + this.error.message);
         };
+
+        getContent("3");
     });
 }(window, document));
     
