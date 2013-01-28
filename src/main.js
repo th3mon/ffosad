@@ -4,12 +4,52 @@
 
     $(function() {
         var
+            Horoscope,
             request = navigator.mozApps.getSelf(),
             $body = $(d.body),
+            id,
             getContent;
 
-        getContent = function(what) {
+        Horoscope = {};
+
+        Horoscope.init = function() {
+            this.bindEvents();
+        };
+
+        Horoscope.bindEvents = function() {
             var
+                self,
+                $buttons;
+
+            self = this;
+            $buttons = $("div#container ul li");
+
+            $buttons
+                .on("mouseover",function(){
+                    $("div.sign_name", this).toggle();
+                })
+
+                .on("mouseout",function(){
+                    $("div.sign_name", this).toggle();
+                })
+
+                .on("click", function() {
+                    var
+                        $this = $(this),
+                        CSSClassWithNumber;
+
+                    CSSClassWithNumber = $this.attr("class").split(" ")[1];
+                    
+                    id = CSSClassWithNumber[CSSClassWithNumber.length - 1];
+
+                    self.renderContent(id);
+                    self.$lastClicked = $this;
+                });
+        };
+
+        Horoscope.renderContent = function(what) {
+            var
+                self = this,
                 url = "http://synchronizemenustart.appspot.com/horoskop?sign=", //http://synchronizemenustart.appspot.com/horoskop?sign=1 - ID
                 content,
                 request;
@@ -21,11 +61,19 @@
             });
 
             request.done(function(obj) {
+                var $container;
+
                 content = obj.message;
 
-                $("<div/>", {
-                    html: obj.message
-                }).appendTo(d.body);
+                $(".description")
+                    .slideUp(function() {
+                        $(this).html("");
+                    });
+
+                $container = self.$lastClicked.siblings(".description");
+                $container
+                    .slideDown()
+                    .html(obj.message);
             });
 
             request.fail(function(jqXHR, textStatus) {
@@ -74,7 +122,9 @@
             alert('Error checking installation status: ' + this.error.message);
         };
 
-        getContent("3");
+        Horoscope.init();
+
+
     });
 }(window, document));
     

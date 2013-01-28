@@ -1,0 +1,95 @@
+/*! normalize.css v2.1.0 | MIT License | git.io/normalize */article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,video{display:inline-block}audio:not([controls]){display:none;height:0}[hidden]{display:none}html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{margin:0}a:focus{outline:thin dotted}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}mark{background:#ff0;color:#000}code,kbd,pre,samp{font-family:monospace,serif;font-size:1em}pre{white-space:pre-wrap}q{quotes:"\201C" "\201D" "\2018" "\2019"}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:0}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}button,input{line-height:normal}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}table{border-collapse:collapse;border-spacing:0}
+ul {
+    margin: 0;
+    /*padding: 0;*/
+}
+
+.hidden {
+    display: none;
+}
+
+body{
+    background: #e2e2e2; /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #e2e2e2 0%, #dbdbdb 50%, #fefefe 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#e2e2e2), color-stop(50%,#dbdbdb), color-stop(100%,#fefefe)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(-45deg,  #e2e2e2 0%,#dbdbdb 50%,#fefefe 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg,  #e2e2e2 0%,#dbdbdb 50%,#fefefe 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg,  #e2e2e2 0%,#dbdbdb 50%,#fefefe 100%); /* IE10+ */
+    background: linear-gradient(135deg,  #e2e2e2 0%,#dbdbdb 50%,#fefefe 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+div#container{
+    width: 320px;
+    overflow: hidden;
+}
+
+div#container ul {
+	list-style-type: none;
+}
+
+.signs {
+	float: left;
+    height: 75px;
+    width: 80px;
+	position: relative;
+}
+
+div.description_row{
+	clear: both;
+    overflow: hidden;
+	height:0;
+}
+
+div#container ul li div.sign_name{
+	display: none;
+	background-color: yellow;
+    border-top: 1px solid yellow;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+div#container ul li.signs{
+	background: url('signs.jpg') no-repeat -12px 2px;
+}
+
+div#container ul li.sign1{
+	background-position: -120px 2px;
+}
+div#container ul li.sign2{
+	background-position: -220px 2px;
+}
+div#container ul li.sign3{
+	background-position: -12px -80px;
+}
+div#container ul li.sign4{
+	background-position: -120px -80px;
+}
+div#container ul li.sign5{
+	background-position: -220px -80px;
+}
+div#container ul li.sign6{
+	background-position: -12px -164px;
+}
+div#container ul li.sign7{
+	background-position: -120px -163px;
+}
+div#container ul li.sign8{
+	background-position: -220px -160px;
+}
+div#container ul li.sign9{
+	background-position: -12px -245px;
+}
+div#container ul li.sign10{
+	background-position: -121px -245px;
+}
+div#container ul li.sign11{
+	background-position: -225px -163px;
+}
+
+.description {
+    width: 240px;
+    clear: both;
+}
+
