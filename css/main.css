@@ -1,0 +1,87 @@
+.span-special {
+    width: 90px;
+    float: left;
+}
+.btns {
+    list-style-type: none;
+    margin-right: auto;
+    margin-left: auto;
+}
+@media screen and (min-width: 320px) {
+    .btns {
+        width: 180px;    
+    }
+}
+@media screen and (min-width: 480px) {
+    .btns {
+        width: 360px;
+    }    
+}
+.btns:first-child {
+    margin-top: 10px;
+}
+.btns li {
+    margin-left: 0;
+}
+.btns li .btn-horoscope {
+    background: url("../icons.jpg") 0 0 no-repeat;
+    text-indent: -20000em;
+    display: block;
+    width: 90px;
+    height: 90px;
+}
+
+.btns:nth-child(1) li:nth-child(1) .btn-horoscope {
+    background-position: -18px -22px;
+}
+.btns:nth-child(1) li:nth-child(2) .btn-horoscope {
+    background-position: -143px -22px;
+}
+.btns:nth-child(1) li:nth-child(3) .btn-horoscope {
+    background-position: -264px -22px;
+}
+.btns:nth-child(1) li:nth-child(4) .btn-horoscope {
+    background-position: -391px -22px;
+}
+
+.btns:nth-child(2) li:nth-child(1) .btn-horoscope {
+    background-position: -18px -144px;
+}
+.btns:nth-child(2) li:nth-child(2) .btn-horoscope {
+    background-position: -143px -144px;
+}
+.btns:nth-child(2) li:nth-child(3) .btn-horoscope {
+    background-position: -264px -144px;
+}
+.btns:nth-child(2) li:nth-child(4) .btn-horoscope {
+    background-position: -391px -144px;
+}
+
+.btns:nth-child(3) li:nth-child(1) .btn-horoscope {
+    background-position: -18px -267px;
+}
+.btns:nth-child(3) li:nth-child(2) .btn-horoscope {
+    background-position: -143px -267px;
+}
+.btns:nth-child(3) li:nth-child(3) .btn-horoscope {
+    background-position: -264px -267px;
+}
+.btns:nth-child(3) li:nth-child(4) .btn-horoscope {
+    background-position: -391px -267px;
+}
+
+.btn-instal {
+    display: block;
+    margin: 0 auto;
+}
+.loading {
+    position: relative;
+}
+.loading .overflow {
+    background: url("../ajax-loader.gif") 50% 50% no-repeat;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}

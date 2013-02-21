@@ -1,0 +1,1940 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"loa",
+				"loading"
+			],
+			[
+				"bt",
+				"btns"
+			],
+			[
+				"cliEle",
+				"clickedElement"
+			],
+			[
+				"conr",
+				"containerMain"
+			],
+			[
+				"ima",
+				"imagesPaginator"
+			],
+			[
+				"js",
+				"jspaginaotr"
+			],
+			[
+				"firstIma",
+				"firstImageHeightForJSPaginatorWebKitBug"
+			],
+			[
+				"firstIm",
+				"firstImageightForJSPaginatorWebKitBug"
+			],
+			[
+				"jq",
+				"jQuery"
+			],
+			[
+				"sH",
+				"slideHeight"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"icon",
+				"span.icon"
+			],
+			[
+				"base",
+				"base"
+			],
+			[
+				"feature",
+				"feature_phone"
+			],
+			[
+				"path",
+				"path_HP"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"spec",
+				"special"
+			],
+			[
+				"sibl",
+				"sibling"
+			],
+			[
+				"marq",
+				"marquee"
+			],
+			[
+				"upd",
+				"updateMarquee"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"sia",
+				"siaf	siaf"
+			],
+			[
+				"rtc",
+				"rtcOnHp"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"ico",
+				"icon"
+			],
+			[
+				"res",
+				"resources"
+			],
+			[
+				"ga",
+				"gazeta"
+			],
+			[
+				"aga",
+				"agora"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"butto",
+				"button"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"pag",
+				"pagetype_index"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"bdr",
+				"bdrs	border-radius"
+			],
+			[
+				"mai",
+				"main"
+			],
+			[
+				"oper",
+				"opera_mini"
+			],
+			[
+				"blo",
+				"blockUI"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"sli",
+				"slideHeight"
+			],
+			[
+				"fP",
+				"featurePhone"
+			],
+			[
+				"fea",
+				"feature_phone"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"OMin",
+				"operaMini"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"aClass",
+				"attrClass"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"gazet",
+				"gazeta"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"br",
+				"branch\\ps_revert_komentarzy"
+			],
+			[
+				"jqu",
+				"jquery"
+			],
+			[
+				"blU",
+				"blockUI"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"CM",
+				"CookieManager"
+			],
+			[
+				"rela",
+				"relative"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"repla",
+				"replaceWith"
+			],
+			[
+				"loc",
+				"locals"
+			],
+			[
+				"Med",
+				"Mediaplan-Atex"
+			],
+			[
+				"split",
+				"splitted"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"gaz",
+				"gazeta_pl"
+			],
+			[
+				"pU",
+				"parseUrls"
+			],
+			[
+				"sp",
+				"splitted"
+			],
+			[
+				"sN",
+				"serwisName"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"retun",
+				"return"
+			],
+			[
+				"swf",
+				"swfobject"
+			],
+			[
+				"isGE",
+				"isGapExist"
+			],
+			[
+				"vl",
+				"value"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"sD",
+				"splittedDomain"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"bN",
+				"boxName"
+			],
+			[
+				"other",
+				"otherSites"
+			],
+			[
+				"rozb",
+				"rozsuwaneboxy"
+			],
+			[
+				"se",
+				"selector"
+			],
+			[
+				"nth",
+				"nth-child"
+			],
+			[
+				"ics",
+				"icons"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"anima",
+				"animate"
+			],
+			[
+				"nS",
+				"normalSize"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"try",
+				"try/catch"
+			],
+			[
+				"bg",
+				"bgz	background-size"
+			],
+			[
+				"bgs",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"images",
+				"imagesPaginator"
+			],
+			[
+				"rp",
+				"repeat-x"
+			],
+			[
+				"nav",
+				"navigator"
+			],
+			[
+				"naviga",
+				"navigator"
+			],
+			[
+				"areY",
+				"areYouWindows"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"modu",
+				"module	module"
+			],
+			[
+				"bind",
+				"bindEvents"
+			],
+			[
+				"bs-n",
+				"bxsh-n	box-shadow: none;"
+			],
+			[
+				"bs-",
+				"bxsh-n	box-shadow: none;"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"togg",
+				"toggleClass"
+			],
+			[
+				"NO",
+				"NUMBER_OF_ARTICLES_PER_PAGE"
+			],
+			[
+				"num",
+				"numberOfArticles"
+			],
+			[
+				"modfi",
+				"modifier"
+			],
+			[
+				"ch",
+				"ch	clientHeight"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"Op",
+				"OperaMini"
+			],
+			[
+				"us",
+				"userAgent"
+			],
+			[
+				"scroll",
+				"scrollByButton"
+			],
+			[
+				"slH",
+				"slideHeight"
+			],
+			[
+				"sef",
+				"self"
+			],
+			[
+				"cLH",
+				"changeListHeight"
+			],
+			[
+				"tls",
+				"trackLinks"
+			],
+			[
+				"bui",
+				"buildTrakcLinksSelector"
+			],
+			[
+				"traL",
+				"trackLinks"
+			],
+			[
+				"tLs",
+				"trackLinks"
+			],
+			[
+				"trackL",
+				"trackLinks"
+			],
+			[
+				"mat",
+				"match"
+			],
+			[
+				"currentDomainN",
+				"currentDomainName"
+			],
+			[
+				"act",
+				"action"
+			],
+			[
+				"selct",
+				"selector"
+			],
+			[
+				"cd",
+				"currentDomain"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 1923,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 96666,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3014,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "manifest.webapp",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "docs/linki.txt",
+			"settings":
+			{
+				"buffer_size": 290,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 185.0,
+		"selected_items":
+		[
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"hmtl",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"ja",
+				"Format: Javascript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ath",
+				"File: Copy Path"
+			],
+			[
+				"pat",
+				"File: Copy Path"
+			],
+			[
+				"swapqu",
+				"Bracket Highlighter: Swap Quotes"
+			],
+			[
+				"swapbr",
+				"Bracket Highlighter: Swap Brackets"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"padis",
+				"Package Control: Disable Package"
+			],
+			[
+				"fetfil",
+				"Fetch: File"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"fetman",
+				"Fetch: Manage"
+			],
+			[
+				"feth",
+				"Fetch: File"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"PATH",
+				"File: Copy Path"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"apth",
+				"Set Syntax: Python"
+			],
+			[
+				"swa",
+				"Bracket Highlighter: Swap Brackets"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"psth",
+				"Snippet: font.stack.helvetica"
+			],
+			[
+				"qu",
+				"Bracket Highlighter: Swap Quotes"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"setc",
+				"Set Syntax: CSS"
+			],
+			[
+				"sej",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sejs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"cp",
+				"File: Copy Path"
+			],
+			[
+				"cop",
+				"File: Copy Path"
+			],
+			[
+				"copypa",
+				"File: Copy Path"
+			],
+			[
+				"pak",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pakc",
+				"Package Control: Disable Package"
+			],
+			[
+				"coppat",
+				"File: Copy Path"
+			],
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"coppa",
+				"File: Copy Path"
+			],
+			[
+				"copypat",
+				"File: Copy Path"
+			],
+			[
+				"setht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"packdi",
+				"Package Control: Disable Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"paken",
+				"Package Control: Enable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pakcup",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"case t",
+				"Convert Case: Title Case"
+			],
+			[
+				"scrip",
+				"File: Copy as Tag script"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"case ",
+				"Convert Case: Lower Case"
+			],
+			[
+				"case sw",
+				"Convert Case: Swap Case"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pakdi",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 426.0
+	},
+	"console":
+	{
+		"height": 159.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/ffosad_obiad_czwartkowy/ffosad_obiad_czwartkowy.sublime-project",
+		"/F/ffosad_obiad_czwartkowy/icon.png",
+		"/F/ffosad/index.html",
+		"/F/ffosad/manifest.webapp",
+		"/F/ffosad_obiad_czwartkowy/manifest.webapp",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/2.2/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/version.htm",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/2.2/mPortal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/change.log",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/version.htm",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/index.html",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/test/version.related_video.htm",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/test/sondaz/0/index.html",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/branches/ps_lego/mPortal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/2.1/allDevices.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/2.1/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/docs/linki.txt",
+		"/C/work/projects/prod/m.gazeta.pl/css/shared.test.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/_dev/mPortal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/test/winiety/3/index.html",
+		"/D/IDE/Sublime Text 2 Build 2220/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/trunk/mPortal.css",
+		"/C/work/projects/prod/m.gazeta.pl/css/lokal.test.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/test/winiety/2/index.html",
+		"/D/IDE/Sublime Text 2 Build 2220/Data/Packages/User/Preferences.sublime-settings",
+		"/C/work/projects/prod/m.gazeta.pl/css/shared.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/change.log",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/branches/ps_ios/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/iOS.0.1.3.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/trunk/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/trunk/allDevices.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/2.0.1/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/branches/ps_lego/mPortal.js",
+		"/C/work/projects/prod/m.gazeta.pl/css/hp.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/branches/ps_sponsorowane_winiety/mPortal.css",
+		"/C/work/projects/prod/m.gazeta.pl/css/gazeta.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/2.0/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/2.0.1/allDevices.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/2.1/mPortal.css",
+		"/C/work/projects/prod/m.gazeta.pl/css/lokal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/test/zajawka_relacji_na_zywo/0/index.html",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/2.0/mPortal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/_dev/mPortal.js",
+		"/C/work/projects/prod/m.gazeta.pl/js/showhide.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/_dev/allDevices.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/1.5.2/mPortal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/branches/ps_sponsorowane_winiety/mPortal.css.merge-left.r132745",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/branches/ps_sponsorowane_winiety/mPortal.css.merge-right.r133218",
+		"/C/work/projects/prod/m.gazeta.pl/js/popcorner.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/docs/relacja na żywo/mGazeta - zajawka na zywo/mgazetaHP_szer 640_na-zywo.psd",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/resources/css/mPortal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/test/hp/2/index.html",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/tmp/mPortal.tmp.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/tmp/empty.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/branches/ps_ligthweight/mPortal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/1.5.3/mPortal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/1.5.1/mPortal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/test/hp/1/index.html",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/resources/js/geo.test.js",
+		"/C/work/projects/prod/m.gazeta.pl/js/geo.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/Kopia version.htm",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/1.2.2.4/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/winietySponsorowane.1.0.0.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/1.2.2.3/mPortal.js",
+		"/C/Documents and Settings/pszelenberger/Moje dokumenty/GitHub/JSON-js/json2.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/test/hp/0/index.html",
+		"/C/work/projects/prod/m.gazeta.pl/js/geo.test.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/resources/js/lib/cubiq-iscroll-d31d6e6/.gitignore",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/branches/ps_winiety/mPortal.css",
+		"/C/work/projects/prod/m.sport.pl/style.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/1.5/mPortal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/1.2.2.2/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/branches/ps_video_player/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/branches/ps_winiety/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/1.2.2.1/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/test/rtc/1/index.html",
+		"/C/work/projects/szelenberger.pl/agora/m.sport.pl/promocja_aplikacji_sport_pl_live/test/rtc/1.html",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/_dev/all_devices.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/_dev/loader.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/1.2.2/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/branches/ps_revert_komentarzy/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/branches/ps_mod_font_resizer/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/localManager.0.1.0.js",
+		"/C/work/projects/prod/m.sport.pl/style.test.css",
+		"/C/work/projects/szelenberger.pl/mPortal/src/gazeta_pl/mobi/AJAXAccordion/AJAXAccordion.0.1.0.js",
+		"/C/work/projects/szelenberger.pl/mPortal/src/gazeta_pl/mobi/IndexDate/IndexDate.0.1.4.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/IndexDate.0.1.4.js",
+		"/C/work/projects/szelenberger.pl/mPortal/old/gazeta_pl/mobi/CookieManager/CookieManager.0.2.2.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/CookieManager.0.2.2.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/runOnce.0.0.1.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/playerHtml5.0.1.4.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/Utils.0.1.1.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/playerHtml5.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/googleAnalytics.1.0.1.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/whoTheHeckAreYou.1.0.0.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/googleAnalytics.1.0.0.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/imagesHighResolutionManager.1.0.0.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/mod_commentsMoreButton.1.0.0.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/mod_commentsMoreButton.1.0.0.min.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/articleMoreButton.1.0.0.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/articleMoreButton.1.0.0.min.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/fontResizer.1.0.1.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/fontResizer.1.0.0.min.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/gazeta_pl.mobi.RTC.0.1.1.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/jspaginator.1.0.0.min.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/jspaginator.1.0.0.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/navigationManager.1.0.0.min.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/navigationManager.1.0.0.js",
+		"/C/work/projects/szelenberger.pl/agora/m.sport.pl/promocja_aplikacji_sport_pl_live/test/rtc/2.html",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/_dev/test.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/docs/feature_phones_user_agents.txt",
+		"/C/work/projects/prod/m.gazeta.pl/js/gallery.js",
+		"/C/work/projects/prod/m.gazeta.pl/js/galerie.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/tmp/mPortal-135684.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/tmp/artykulowa_21.11.2012.html",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/branches/ps_rtc_art2.0/mPortal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/1.6/mPortal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/resources/css/gazeta.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/tmp/dlaczego_stylowanie_po_id_moze_byc_klopotliwe.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/css/1.0/mPortal.css",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/change.log",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/CookieManager.0.2.3.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/AJAXAccordion.0.1.1.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/modules/Picture.changeFormat.0.1.2.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/test/video/1/index.html",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/branches/ps_ios_ikony/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.gazeta.pl/main/src/js/mPortal/1.2.1.1/mPortal.js",
+		"/C/work/projects/szelenberger.pl/agora/m.sport.pl/promocja_aplikacji_sport_pl_live/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\work\\projects\\szelenberger.pl\\agora\\m.gazeta.pl\\main\\test",
+			"C:\\work\\projects\\prod\\m.gazeta.pl\\js",
+			"C:\\work\\projects\\szelenberger.pl\\mPortal"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2",
+			"auto",
+			"30",
+			"43px",
+			"span3",
+			"bgp",
+			"btn\"",
+			"btn",
+			" data-toggle=\"modal\"",
+			"btn\"",
+			"btn",
+			"<a",
+			"button",
+			"<ul",
+			"row",
+			"main",
+			"\n                    ",
+			"jspaginator",
+			"firstImageHeightForJSPaginatorWebKitBug",
+			"firstImageightForJSPaginatorWebKitBug",
+			"changeListHeight",
+			"jspaginator",
+			":not",
+			"</a>.*</h3>",
+			"</a>    </h3>",
+			"#pagetype_index",
+			"\n}",
+			".winieta.navigation .wrapper_menu_buttons .button",
+			".winieta.navigation .wrapper_menu_buttons .button ",
+			".winieta.navigation .wrapper_menu_buttons .button",
+			"wrapper_menu_buttons",
+			"opera_mini",
+			"_dev",
+			"ios",
+			"(0\\.0\\.html)|(HP)",
+			"googleAnalytics",
+			".path_HP .AJAXAccordion",
+			".path_HP .path_HP",
+			",",
+			"li",
+			",",
+			"hp",
+			"#pagetype_index",
+			"body > .main {max-width: 800px; margin-right: auto; margin-left: auto;}",
+			"==========",
+			"iOS",
+			"runO",
+			"45",
+			" .weather",
+			"1.750em",
+			"headers",
+			"depend",
+			"div",
+			"a class=\"inner\"",
+			"icon",
+			"opera_mini",
+			"cont",
+			"mod_rtc",
+			".mod_content_more",
+			"entries",
+			"ps_lego",
+			"time",
+			"mod_rtc",
+			" ",
+			"http",
+			"faeature_phone",
+			"button",
+			"feature_phone",
+			"_dev",
+			":before",
+			".mod_mobi_apps",
+			"sponsorowane",
+			".imgw",
+			".index .entry .imgw",
+			"#cont .entry .imgw",
+			"#cont .entry .imgw, .index .entry .imgw",
+			".entry .imgw",
+			"Handlebars",
+			"auto",
+			"parseData",
+			"Handlebars",
+			"replaceImages",
+			"ui",
+			"getIframe",
+			".gazetaVideoPlayer",
+			"PlayerHTML5",
+			"MobiVideo",
+			"PlayerHTML5",
+			"imagesHighResolutionManager",
+			";}",
+			"mod_mobi_apps",
+			"#cont ",
+			"#",
+			".mod_mobi_apps",
+			"jspaginator",
+			"article",
+			"strona_artykulowa",
+			"jspaginator",
+			"mod_comm",
+			"/* pl.gazeta.mobi.index.entry.article */\n.index .entry .reklama {padding: 0 0 5px;}\n\n/* pl.gazeta.mobi.index.entry.footer */\n.index .entry.footer {border-top: 1px solid #DEDEDE;}\n#cont .index .entry.footer ul li, .index .entry.footer ul li {width: 50%;}\n.index .entry.footer li {float: left; width: 50%;}\n.index .entry.footer li:last-child {float: right; font-size: 14px; font-weight: 700;}\n.index .entry.footer li a {display: block;}\n\n/* pl.gazeta.mobi.index.entry.mod.score */\n#cont .mod_score .imgw, .mod_score .imgw{float: none; height: 30px;}\n#cont .entry.mod_score .imgw{padding-right: 0;}\n.index .mod_score .imgw{margin-right: 0;}\n#cont .mod.mod_score {padding-bottom: 7px;}\n.mod_score .body{background: url(\"http://bi.gazeta.pl/i/obrazki/mobi/bg_scores_gradient_bottom.png\") repeat-x scroll 0 0 #E3E2E4;border: 1px solid #DEDEDE;border-radius: 3px;font-size: 12px;margin-bottom: 14px;position: relative;}\n.mod_score a{display: block;margin-bottom: -1px;overflow: hidden;padding: 0 7px;text-align: center;}\n.mod_score a:hover{text-decoration: none;}\n.mod_score .home, .mod_score .away, .mod_score .score{float: left;}\n.mod_score .home, .mod_score .away{background: repeat-y 0 0 transparent;line-height: 28px;width: 75px;}\n.mod_score .name{font-weight: 700;}\n.mod_score .home{text-align: left;}\n.mod_score .away{text-align: right;}\n.mod_score .home > span, .mod_score .away > span{display: inline-block;vertical-align: middle;}\n.mod_score .home > .name, .mod_score .away > .name {max-width: 60px; text-overflow: ellipsis; overflow: hidden; height: 30px;}\n.mod_score .imgw img{border: 1px solid #DEDEDE; max-width: 35px;}\n#cont .mod_score .home .imgw, .mod_score .home .imgw {padding-right: 7px;}\n.mod_score .away .imgw {padding-left: 7px;}\n.mod_score .score{background: url(\"http://bi.gazeta.pl/i/obrazki/mobi/bg_scores_gradient_middle.png\") repeat-x 0 0 transparent;color: #fff;font-size: 18px;font-weight: 700;line-height: 29px;width: 66px;}\n.mod_score .score .home, .mod_score .score .away{background: none;float: none;}\n.mod_score .status {background-color: #2b313d;border-radius: 0 0 3px 3px;bottom: -13px;color: #c9c9c9;font-size: 10px;left: 82px;line-height: 14px; height: 14px; overflow: hidden; padding: 0 7px;position: absolute;width: 52px;}\n.mod_score .status .icon, .mod_score .status .content{display: block;}\n.mod_score .status.active .content{float: right;}\n.mod_score .status .icon{background: none 50% no-repeat transparent;display: none;float: left;height: 14px;margin-left: -3px;width: 9px;}\n.mod_score .status.active .icon{background-color: transparent;background-image: url(\"http://bi.gazeta.pl/i/obrazki/mobi/icon_game_on.png\");display: block;}\n\n/*pl.gazeta.mobi.index.other_hp.entry.imgw*/\n#cont .entry.first h3, .entry.first h3 {font-weight: normal;}\n\n/*pl.gazeta.mobi.entry.imgw*/\n#pagetype_index .entry .imgw {margin-right: 7px;}\n",
+			"#otherSites {margin: 0;}\n#otherSites > li {position: relative;}\n#otherSites li {background: repeat-x left top url(\"http://bi.gazeta.pl/mobile/img/others_bg.4.png\"); margin-bottom: 3px;}\n#otherSites li a {font-size: 0.938em; color: #bd1038; display: block; height: 40px; line-height: 40px; padding-left: 11px; font-weight: bold;}\n#otherSites > li > a:hover {text-decoration: none;}\n#otherSites > li > a:after, #otherSites > li a:before, #otherSites > li:before {content:\"\";}\n#otherSites li li a {color: #373737; font-size: 1em;}\n#otherSites li div, #otherSites li ul {display: none;}\n.AJAXAccordion #otherSites li div, .AJAXAccordion #otherSites li ul {display: block;}\n.AJAXAccordion #otherSites li {height: auto;}\n.AJAXAccordion #otherSites li li {background: transparent; margin: 0; border-style: none;}\n.AJAXAccordion #otherSites li .entry {border-style: none; padding: 7px 0; border-bottom-style: solid;}\n.AJAXAccordion #otherSites li:first-child {height: auto;}\n.AJAXAccordion #otherSites li .entry:last-child {border-style: none; margin-bottom: 0;}\n.AJAXAccordion #otherSites li .entry p {margin: 0;}\n.AJAXAccordion #otherSites li li a {background: none; font-weight: normal; height: auto; line-height: normal; padding: 0;}\n.AJAXAccordion #otherSites li li h2 {font-size: 1em; margin: 0;}\n.AJAXAccordion #otherSites .articles {display: none;}\n.AJAXAccordion #otherSites > li {background: url(\"http://bi.gazeta.pl/mobile/img/others_bg.4.png\") 0 0 repeat-x;}\n.AJAXAccordion #otherSites > li.active {background: url(\"http://bi.gazeta.pl/mobile/img/others_bg.4.png\") 0 0 repeat-x;}\n.AJAXAccordion #otherSites > li a {background: none;}\n.AJAXAccordion #otherSites > .active .articles {display: block;}",
+			"/*box_gospo | mod mod_stock_exchange_listing*/\n#cont .box_gospo, .mod_stock_exchange_listing {border: solid #c9c7c7; border-width: 1px 0;}\n#cont .box_gospo .stock, .mod_stock_exchange_listing .stock {background-color: #e4e4e4; margin: 0 0 1px; padding: 6px 6px 4px; line-height: 1.125em;}\n#cont .box_gospo .stock > div, .mod_stock_exchange_listing .stock > div {padding-bottom: 1px;}\n#cont .box_gospo .stock ul, .mod_stock_exchange_listing .stock ul, #cont .box_gospo .stock li, .mod_stock_exchange_listing .stock li{display: inline;}\n#cont .box_gospo .stock ul, .mod_stock_exchange_listing .stock ul {font-weight: normal; color: #000; font-size: 0.875em;}\n#cont .box_gospo .stock li, .mod_stock_exchange_listing .stock li {padding: 0 5px;}\n#cont .box_gospo .stock li span, .mod_stock_exchange_listing .stock li span {font-weight: bold;}\n#cont .box_gospo .stock li.E_more span, .mod_stock_exchange_listing .stock li.E_more span {color: #339900;}\n#cont .box_gospo .stock li.E_less span, .mod_stock_exchange_listing .stock li.E_less span {color: #990000;}\n#cont .box_gospo .stock a, #cont .mod.mod_stock_exchange_listing .stock a {color: #074977; font-size: 0.875em; display: inline; height: auto; line-height: normal; padding-left: 0; font-weight: normal;}\n#cont .box_gospo {margin: 1px 0 3px;}\n#cont .box_gospo.hidden, .mod_stock_exchange_listing.hidden {display: none;}",
+			"#cont, .cont {margin: 0;}\n#cont > .news {margin: 0; background-color: #242752;}\n#cont > .czerwony {background-color: #a00;}\n#cont > .czarny {background-color: #000;}\n#cont > .news p {padding: 7px; line-height: 1.2em;}\n#cont > .news a {color: #fff; font-weight: bold; font-size: 1.0em;}\n#cont > .news a img {padding: 5px 10px 5px 5px;}\n#cont ul li {width: 100%; display: inline-block;}\n#cont .index {margin: 3px 0 4px;}\n.index .head h2 {background-color: transparent; padding-bottom: 5px; margin: 0 0 5px;border-bottom: 2px solid #c5c4c4; overflow: hidden;}\n#cont .index .head h2.last_actualization {border-bottom: none; color: #999; text-transform: uppercase; font-size: 1.125em;}\n#cont .entry {border-bottom: 1px solid #dedede; padding: 9px 0;margin: 0;line-height: 1.3em;}\n#cont .entry.first h3 , #cont .entry.bold h3 {font-weight: bold;}\n#cont .entry h3, #cont .entry h3 a {color: #373737;}\n#cont .entry h3, .index .entry h3 {line-height: 1.2em;}\n#cont .entry {font-size: 0.938em;}\n#cont .entry h3 {font-size: 1em;}\n#geo.index .entry h3 a {min-height: 0;}\n#cont .entry:first-child .imgw, .index .entry:first-child .imgw {padding-right: 3px; margin-top: 0;}\n.entry .content {margin-right: 5px;}\n.entry .meta, #cont .entry .meta .time {color: #074977; line-height: 17px;}\n.entry .meta, #cont .entry .meta .time {line-height: 1.528em;}\n.entry .meta .base, .entry .meta .time {line-height: 1;}\n.entry .meta {display: inline; font-size: 0.786em;}\n.entry .meta .base {display: inline-block; margin-right: 5px; padding-right: 5px; border-right: 1px solid #b7b7b7;}\n#cont .entry .meta .time {padding-right: 0; font-weight: normal; font-size: 1em; color: #074977; line-height: 1em;}\n#cont .index .footer li {display: block; width: auto;}\n.index .footer ul {margin-top: 3px;}\n.index .footer ul:after {content: \"\"; display: block; height: 0; width: 0; visibility: hidden; clear: both;}\n.index .footer li {display: block; float:left;}\n.index .footer li a {color: #074977; font-size: 0.813em; line-height: 1em; border-right: #c2c2c2 1px solid; padding-right: 5px; margin-right: 5px;}\n.index .footer li:last-child a {border-right-style: none;}\n#cont .index .spec, #cont #otherSites .spec {color: #d51641;}",
+			"/* HP */\n#pagetype_index .main {font-family: Arial, sans-serif; padding: 0;}\n#pagetype_index #winieta, #pagetype_index .news.mt, #pagetype_index .index, #pagetype_index #otherSites {padding: 0 14px;}\n#pagetype_index #winieta, #pagetype_index .winieta {margin-top: 8px;}\n#winieta img {width: 140px;}\n#winieta .nav_right {float: right; margin-top: 3px;}\n#winieta li {float: left;}\n#winieta .nav_right a.weather, #winieta a.mail {color: #074977; display: block; font-size: 0.5em; font-weight: bold; text-align: center; text-transform: none; vertical-align: bottom; line-height: 15px;}\n#winieta a.mail {margin-left: 2px;}\n#winieta a.mail {float: right;}\n#winieta .nav_right a:before, #winieta a.mail:before {background: url(\"http://bi.gazeta.pl/mobile/img/sprite_icons_winieta.2.png\") no-repeat scroll 50% 0 transparent; display: block; content: \"\"; width: 25px; height: 25px; padding: 0 2px;}\n#winieta a.mail:before {height: 24px; margin-top: 1px;}\n#winieta a.weather:before {background-position: 50% 100%;}",
+			"/* HP */",
+			";}",
+			", undefined",
+			"Window",
+			"window",
+			"mod_commentsMoreButton.init()",
+			"mod_commentsMoreButton",
+			"FontResizer",
+			"fontResizer",
+			"Resizer",
+			"w.",
+			"g",
+			"w",
+			"section",
+			"featurePhone",
+			"mind",
+			"lorem",
+			"ver",
+			"d.",
+			"resize",
+			"",
+			"document",
+			"_dev\\mPortal.js",
+			".imgw"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"firstImageHeightForJSPaginatorWebKitBug",
+			"</a>\n                                </h3>\n",
+			".path_HP.AJAXAccordion",
+			".path_HP",
+			"a class=\"inner\" href=\"#\"",
+			"",
+			"g.",
+			"jQuery",
+			"PlayerHTML5 v0.1.4",
+			"http://bi.gazeta.pl/i/obrazki/sport2011/",
+			"run1",
+			" {",
+			";}",
+			"{",
+			";}",
+			"{",
+			"",
+			"NUMBER_OF_IMAGES",
+			"ś",
+			"ż",
+			"ą",
+			"ł",
+			"ó",
+			"ę",
+			"ń",
+			"ł",
+			"ć",
+			";}",
+			"; ",
+			";}",
+			"; ",
+			"str_FONT_RESIZER_",
+			"strFONT_RESIZER_\nstrFONT_RESIZER_\nstrFONT_RESIZER_\nstr_FONT_RESIZER_",
+			"defaultRawFontSize",
+			"$buttons",
+			"reltedArticlesPaginator",
+			"scrollByButton",
+			"scrollButton",
+			"tekstu",
+			"scroller",
+			"images",
+			"http://biv.gazeta.pl/mobile/img/",
+			", ",
+			"<div class=\"footer\" id=\"footer\">",
+			"<div class=\"body\" id=\"body\">",
+			"<div class=\"header\" id=\"header\">",
+			"mod_comments_list",
+			".mod_comment_list",
+			" ",
+			"",
+			"/*, .mod_comment_form input.iTxt */",
+			"fireCallback",
+			"before",
+			"Rozwiń",
+			"wrapper_img imgw",
+			"artykul/nawigacja",
+			"jsNavigationTop",
+			"/",
+			"ó",
+			"",
+			"<",
+			"",
+			",",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 1923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main.js",
+					"settings":
+					{
+						"buffer_size": 96666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95402,
+								95402
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 202.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								874,
+								874
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 258.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "manifest.webapp",
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "docs/linki.txt",
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 318.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"test/zaj",
+				"main/test/zajawka_relacji_na_zywo/0/index.html"
+			],
+			[
+				"_dev/",
+				"main/src/js/mPortal/_dev/mPortal.js"
+			],
+			[
+				"_devcss",
+				"main/src/css/_dev/mPortal.css"
+			],
+			[
+				"lokal.css",
+				"css/lokal.css"
+			],
+			[
+				"trunkcss",
+				"main/src/css/trunk/mPortal.css"
+			],
+			[
+				"sharet",
+				"css/shared.test.css"
+			],
+			[
+				"linki",
+				"main/docs/linki.txt"
+			],
+			[
+				"test/sondaz",
+				"main/test/sondaz/0/index.html"
+			],
+			[
+				"link",
+				"main/docs/linki.txt"
+			],
+			[
+				"hp",
+				"css/hp.css"
+			],
+			[
+				"hp.css",
+				"css/hp.css"
+			],
+			[
+				"geo",
+				"js/geo.js"
+			],
+			[
+				"devmportjs",
+				"main/src/js/mPortal/_dev/mPortal.js"
+			],
+			[
+				"testsondaz",
+				"main/test/sondaz/0/index.html"
+			],
+			[
+				"_dev",
+				"main/src/css/_dev/mPortal.css"
+			],
+			[
+				"testsonda",
+				"main/test/sondaz/0/index.html"
+			],
+			[
+				"show",
+				"js/showhide.js"
+			],
+			[
+				"maintestrtc1",
+				"main/test/rtc/1/index.html"
+			],
+			[
+				"testrtc1",
+				"m.sport.pl/promocja_aplikacji_sport_pl_live/test/rtc/1.html"
+			],
+			[
+				"testsondaz0",
+				"main/test/sondaz/0/index.html"
+			],
+			[
+				"devcss",
+				"main/src/css/_dev/mPortal.css"
+			],
+			[
+				"testsonda0",
+				"main/test/sondaz/0/index.html"
+			],
+			[
+				"srca",
+				"mPortal/src/gazeta_pl/mobi/AJAXAccordion/AJAXAccordion.0.1.0.js"
+			],
+			[
+				"srcmodcomm",
+				"main/src/js/mPortal/modules/mod_commentsMoreButton.1.0.0.min.js"
+			],
+			[
+				"mod_commentmorebutton",
+				"main/src/js/mPortal/modules/mod_commentsMoreButton.1.0.0.js"
+			],
+			[
+				"srcarticlemore",
+				"main/src/js/mPortal/modules/articleMoreButton.1.0.0.min.js"
+			],
+			[
+				"srcrtc",
+				"main/src/js/mPortal/modules/gazeta_pl.mobi.RTC.0.1.1.js"
+			],
+			[
+				"srcmodfontremin",
+				"main/src/js/mPortal/modules/fontResizer.1.0.0.min.js"
+			],
+			[
+				"fontres",
+				"main/src/js/mPortal/modules/fontResizer.1.0.1.js"
+			],
+			[
+				"srcjspag",
+				"main/src/js/mPortal/modules/jspaginator.1.0.0.js"
+			],
+			[
+				"navmmin",
+				"main/src/js/mPortal/modules/navigationManager.1.0.0.min.js"
+			],
+			[
+				"srcdevportaljs",
+				"main/src/js/mPortal/_dev/mPortal.js"
+			],
+			[
+				"srctrunk",
+				"main/src/css/trunk/mPortal.css"
+			],
+			[
+				"showhide.js",
+				"js/showhide.js"
+			],
+			[
+				"gazeta.css",
+				"main/resources/css/gazeta.css"
+			],
+			[
+				"change",
+				"main/src/css/change.log"
+			],
+			[
+				"srcdevcss",
+				"main/src/css/_dev/mPortal.css"
+			],
+			[
+				"srccssm",
+				"main/src/css/1.0/mPortal.css"
+			],
+			[
+				"cha",
+				"main/src/js/change.log"
+			],
+			[
+				"srcchn",
+				"main/src/js/change.log"
+			],
+			[
+				"google",
+				"main/src/js/mPortal/modules/googleAnalytics.1.0.0.js"
+			],
+			[
+				"chan",
+				"main/src/js/change.log"
+			],
+			[
+				"cssch",
+				"main/src/css/change.log"
+			],
+			[
+				"jsch",
+				"main/src/js/change.log"
+			],
+			[
+				"aja",
+				"js/AJAXAccordion.0.1.1.js"
+			],
+			[
+				"srcdevjs",
+				"main/src/js/mPortal/_dev/mPortal.js"
+			],
+			[
+				"cssdev",
+				"main/src/css/_dev/mPortal.css"
+			],
+			[
+				"csschan",
+				"main/src/css/change.log"
+			],
+			[
+				"index",
+				"main/index.html"
+			],
+			[
+				"jschan",
+				"main/src/js/change.log"
+			],
+			[
+				"jsbranchespsrtc",
+				"main/src/js/mPortal/branches/ps_rtc/mPortal.js"
+			],
+			[
+				"srcm1.2.1portal.js",
+				"main/src/js/mPortal/1.2.1/mPortal.js"
+			],
+			[
+				"srccssver",
+				"main/src/css/version.htm"
+			],
+			[
+				"src_dev",
+				"main/src/css/_dev/mPortal.css"
+			],
+			[
+				"src1.3",
+				"main/src/css/1.3/mPortal.css"
+			],
+			[
+				"todo",
+				"main/docs/FIFO.TODO"
+			],
+			[
+				"1.1/",
+				"main/src/js/mPortal/1.1/mPortal.js"
+			],
+			[
+				"1.1.1",
+				"main/src/js/mPortal/1.1.1/mPortal.js"
+			],
+			[
+				"trunk",
+				"main/src/js/mPortal/trunk/mPortal.js"
+			],
+			[
+				"srcmportal",
+				"main/src/css/1.4/mPortal.css"
+			],
+			[
+				"shared",
+				"main/resources/css/shared.css"
+			],
+			[
+				"main",
+				"m.sport.pl js/main.js"
+			],
+			[
+				"showhide",
+				"js/showhide.js"
+			],
+			[
+				"ios",
+				"main/src/js/mPortal/modules/iOS.0.1.1.js"
+			],
+			[
+				"srcdev",
+				"strona_artykulowa/src/css/_dev/mPortal.css"
+			],
+			[
+				"video0",
+				"strona_artykulowa/test/video/0/index.html"
+			],
+			[
+				"txt",
+				"strona_artykulowa/docs/rwd.txt"
+			],
+			[
+				"player",
+				"strona_artykulowa/src/js/mPortal/modules/playerHtml5.js"
+			],
+			[
+				"srcdevpor",
+				"strona_artykulowa/src/js/mPortal/_dev/mPortal.js"
+			],
+			[
+				"devportjs",
+				"mPortal/js/_dev/mPortal.js"
+			],
+			[
+				"geo.js",
+				"js/geo.js"
+			],
+			[
+				"/1.2/",
+				"strona_artykulowa/src/js/mPortal/1.2/mPortal.js"
+			],
+			[
+				"demportal.js",
+				"mPortal/js/_dev/mPortal.js"
+			],
+			[
+				"test/sond",
+				"strona_artykulowa/test/sondaz/0/index.html"
+			],
+			[
+				"font",
+				"strona_artykulowa/src/js/mPortal/modules/fontResizer.1.0.0.js"
+			],
+			[
+				"modfont",
+				"strona_artykulowa/src/js/mPortal/modules/fontResizer.1.0.0.js"
+			],
+			[
+				"1.4mportal",
+				"mPortal/css/1.4/mPortal.css"
+			],
+			[
+				"srcdevmportcss",
+				"strona_artykulowa/src/css/_dev/mPortal.css"
+			],
+			[
+				"src/mpor.js",
+				"strona_artykulowa/src/js/mPortal/_dev/mPortal.js"
+			],
+			[
+				"src/m",
+				"strona_artykulowa/resources/css/mPortal.css"
+			],
+			[
+				"ind",
+				"strona_artykulowa/index.html"
+			],
+			[
+				"sondaz0",
+				"strona_artykulowa/test/sondaz/0/index.html"
+			],
+			[
+				"to",
+				"strona_artykulowa/docs/co_zostalo.TODO"
+			],
+			[
+				"1.3",
+				"strona_artykulowa/src/css/test/version.1.3.htm"
+			],
+			[
+				"testsond0",
+				"strona_artykulowa/test/sondaz/0/index.html"
+			],
+			[
+				"srcdevmporcss",
+				"strona_artykulowa/src/css/_dev/mPortal.css"
+			],
+			[
+				"devmporcss",
+				"mPortal/css/_dev/mPortal.css"
+			],
+			[
+				"devmportalcss",
+				"mPortal/css/_dev/mPortal.css"
+			],
+			[
+				"srciob",
+				"strona_artykulowa/src/js/mPortal/modules/iOS.0.1.1b.js"
+			],
+			[
+				"srcios",
+				"strona_artykulowa/src/js/mPortal/modules/iOS.0.1.1.js"
+			],
+			[
+				"lin",
+				"strona_artykulowa/docs/linki.txt"
+			],
+			[
+				"devmojs",
+				"mPortal/js/_dev/mPortal.js"
+			],
+			[
+				"1.3m",
+				"strona_artykulowa/src/css/1.3/mPortal.css"
+			],
+			[
+				"devmpo",
+				"mPortal/css/_dev/mPortal.css"
+			],
+			[
+				"showh",
+				"js/showhide.js"
+			],
+			[
+				"h.test",
+				"css/hp.test.css"
+			],
+			[
+				"gaz",
+				"css/gazeta.css"
+			],
+			[
+				"ine",
+				"strona_artykulowa/index.html"
+			],
+			[
+				"shar",
+				"css/shared.css"
+			],
+			[
+				"sha",
+				"css/shared.css"
+			],
+			[
+				"devm",
+				"mPortal/css/_dev/mPortal.css"
+			],
+			[
+				"testwiniety",
+				"strona_artykulowa/test/winiety/1/index.html"
+			],
+			[
+				"101mpo",
+				"strona_artykulowa/src/js/mPortal/1.0.1/mPortal.js"
+			],
+			[
+				"1.1mjs",
+				"strona_artykulowa/src/js/mPortal/1.1/mPortal.js"
+			],
+			[
+				"testsondind",
+				"strona_artykulowa/test/sondaz/0/index.html"
+			],
+			[
+				"srcdemportaljs",
+				"strona_artykulowa/src/js/mPortal/_dev/mPortal.js"
+			],
+			[
+				"sondazind",
+				"strona_artykulowa/test/sondaz/1/index.html"
+			],
+			[
+				"autor",
+				"strona_artykulowa/test/autor_zdjec/0/index.html"
+			],
+			[
+				"gooanamin",
+				"strona_artykulowa/src/js/mPortal/modules/googleAnalytics.1.0.0.min.js"
+			],
+			[
+				"googa",
+				"strona_artykulowa/src/js/mPortal/modules/googleAnalytics.1.0.0.js"
+			],
+			[
+				"lini",
+				"strona_artykulowa/docs/linki.txt"
+			],
+			[
+				"gooam",
+				"strona_artykulowa/src/js/mPortal/modules/googleAnalytics.1.0.0.min.js"
+			],
+			[
+				"googl",
+				"strona_artykulowa/src/js/mPortal/modules/googleAnalytics.1.0.0.js"
+			],
+			[
+				"li",
+				"strona_artykulowa/docs/linki.txt"
+			],
+			[
+				"1",
+				"mPortal/js/1.0/mPortal.js"
+			],
+			[
+				"portalcss",
+				"mPortal/css/1.1/mPortal.css"
+			],
+			[
+				"11mpojs",
+				"strona_artykulowa/src/js/mPortal/1.1/mPortal.js"
+			],
+			[
+				"pack",
+				"strona_artykulowa/src/js/mPortal/packages/mPortal.googleAnalytics.1.0.0.js"
+			],
+			[
+				"showbox4",
+				"strona_artykulowa/src/js/mPortal/modules/ShowBox.0.1.4.js"
+			],
+			[
+				"naman",
+				"strona_artykulowa/src/js/mPortal/modules/navigationManager.1.0.0.js"
+			],
+			[
+				"na",
+				"strona_artykulowa/src/js/mPortal/packages/mPortal.navigationManager.1.0.0.js"
+			],
+			[
+				"init",
+				"strona_artykulowa/src/js/mPortal/inits/navigationManager.1.0.0.init.js"
+			],
+			[
+				"showbmi",
+				"strona_artykulowa/src/js/mPortal/modules/ShowBox.0.1.4.min.js"
+			],
+			[
+				"names",
+				"strona_artykulowa/src/js/mPortal/modules/namespace.1.0.0.min.js"
+			],
+			[
+				"navigamin",
+				"strona_artykulowa/src/js/mPortal/modules/navigationManager.1.0.0.min.js"
+			],
+			[
+				"shecss",
+				"css/shared.css"
+			],
+			[
+				"winietyin",
+				"strona_artykulowa/test/winiety/1/index.html"
+			],
+			[
+				"sondazindex",
+				"strona_artykulowa/test/sondaz/0/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/projects/cookie.manager.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true
+}

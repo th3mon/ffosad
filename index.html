@@ -1,38 +1,54 @@
 <!doctype html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;">
     <meta charset="UTF-8">
-    <title>FAapp</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap-responsive.min.css">
+    <link rel="stylesheet" href="css/main.css">
     <script src="https://myapps.mozillalabs.com/jsapi/include.js"></script>
     <script src="src/main.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <title>FirefoxOS App Day Demo</title>
 </head>
 <body>
-<div id="container">
-        <ul class="row">
-            <li class="signs sign0" data-dest="description_row1"><div class="sign_name">Bliźnięta</div></li>
-            <li class="signs sign1"  data-dest="description_row1"><div class="sign_name">Rak</div></li>
-            <li class="signs sign2" data-dest="description_row1"><div class="sign_name">Ryby</div></li>
-            <li class="description description_row1 hidden">description yoyoyo</li>
+    <!-- 
+        baran, byk, bliznięta, rak
+        lew, panna, waga, skorpion
+        strzelec, koziorożec, wodnik, ryby
+     -->
+    <div id="containerMain" class="container container-main">
+        <ul class="row row1 btns">
+            <li class="span3 span-special"><a href="#modal" role="button" class="btn-horoscope" data-id="0">baran</a></li>
+            <li class="span3 span-special"><a href="#modal" role="button" class="btn-horoscope" data-id="1">byk</a></li>
+            <li class="span3 span-special"><a href="#modal" role="button" class="btn-horoscope" data-id="2">waga</a></li>
+            <li class="span3 span-special"><a href="#modal" role="button" class="btn-horoscope" data-id="3">skorpion</a></li>
         </ul>
-        <ul class="row">
-            <li class="signs sign3" data-dest="description_row2"><div class="sign_name">Bliźnięta</div></li>
-            <li class="signs sign4" data-dest="description_row2"><div class="sign_name">Bliźnięta</div></li>
-            <li class="signs sign5" data-dest="description_row2"><div class="sign_name">Bliźnięta</div></li>
-            <li class="description description_row2 hidden">description yoyoyo2</li>
+        <ul class="row row2 btns">
+            <li class="span3 span-special"><a href="#modal" role="button" class="btn-horoscope" data-id="4">bliźnięta</a></li>
+            <li class="span3 span-special"><a href="#modal" role="button" class="btn-horoscope" data-id="5">rak</a></li>
+            <li class="span3 span-special"><a href="#modal" role="button" class="btn-horoscope" data-id="6">wodnik</a></li>
+            <li class="span3 span-special"><a href="#modal" role="button" class="btn-horoscope" data-id="7">ryby</a></li>
         </ul>
-        <ul class="row">
-            <li class="signs sign6" data-dest="description_row3"><div class="sign_name">Bliźnięta</div></li>
-            <li class="signs sign7" data-dest="description_row3"><div class="sign_name">Bliźnięta</div></li>
-            <li class="signs sign8" data-dest="description_row3"><div class="sign_name">Bliźnięta</div></li>
-            <li class="description description_row3 hidden">description yoyoyo3</li>
+        <ul class="row row3 btns">
+            <li class="span3 span-special"><a href="#modal" role="button" class="btn-horoscope" data-id="8">lew</a></li>
+            <li class="span3 span-special"><a href="#modal" role="button" class="btn-horoscope" data-id="9">panna</a></li>
+            <li class="span3 span-special"><a href="#modal" role="button" class="btn-horoscope" data-id="10">strzelec</a></li>
+            <li class="span3 span-special"><a href="#modal" role="button" class="btn-horoscope" data-id="11">koziorożec</a></li>
         </ul>
-        <ul class="row">
-            <li class="signs sign9" data-dest="description_row4"><div class="sign_name">Bliźnięta</div></li>
-            <li class="signs sign10" data-dest="description_row4"><div class="sign_name">Bliźnięta</div></li>
-            <li class="signs sign11" data-dest="description_row4"><div class="sign_name">Bliźnięta</div></li>
-            <li class="description description_row4 hidden">description yoyoyo4</li>
-        </ul>
-</div>
+    </div>
+
+    <div id="modal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+            <h3 id="myModalLabel">Modal header</h3>
+        </div>
+        <div class="modal-body">
+            <p>One fine body…</p>
+        </div>
+        <div class="modal-footer">
+            <button class="btn" data-dismiss="modal" aria-hidden="true">Zamknij</button>
+        </div>
+    </div>
 </body>
 </html>

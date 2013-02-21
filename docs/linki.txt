@@ -1,0 +1,9 @@
+Główna strona o projektowaniu apek
+    https://developer.mozilla.org/en-US/docs/Apps
+Manifest
+    https://developer.mozilla.org/en-US/docs/Apps/Manifest
+Developer Hub
+    https://marketplace.firefox.com/developers/
+FirefoxOS
+    https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS
+ 

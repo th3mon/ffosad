@@ -1,10 +1,10 @@
 {
-    "name": "FAapp",
+    "name": "FirefoxOS App Day Demo",
     "developer": {
-        "name":"Przemysław 'th3mon' Szelenberger",
-        "url":"http://FAapp.szelenberger.pl"
+        "name":"demo",
+        "url":"http://github.com"
     },
-    "description":"Fuckin' Awesome App",
+    "description":"FirefoxOS App Day Demo",
     "launch_path": "/index.html",
     "icons":{
         "128":"/icon.png"
