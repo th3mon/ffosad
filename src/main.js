@@ -7,7 +7,8 @@
         request = navigator.mozApps.getSelf(),
         $body = $(d.body),
         id,
-        getContent;
+        getContent,
+        baseURL = "https://raw.github.com/th3mon/ffosad/master/";
 
     Horoscope = {};
 
@@ -77,15 +78,14 @@
         } else {
             $installButton
                 .removeClass("hidden")
-                .on("click", function() {
-                    var $req = $(navigator.mozApps.install("/manifest.webbapp"));
+                .on("click", function(e) {
+                    var $req = $(navigator.mozApps.install(baseURL + "/manifest.webbapp"));
+
+                    e.preventDefault();
 
                     $req
                         .on("success", function() {
                             $installButton.hide();
-                            $body.append("<h1/>", {
-                                text: "Hello!"
-                            });
                         })
                         .on("error", function() {
                             alert("Couldn't install (" + errObj.code + ") " + errObj.message);
