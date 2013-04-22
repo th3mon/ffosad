@@ -1,12 +1,23 @@
 {
-    "name": "FirefoxOS App Day Demo",
-    "developer": {
-        "name":"demo",
-        "url":"http://github.com"
-    },
-    "description":"FirefoxOS App Day Demo",
+    "version": "0.3",
+    "name": "HoroskopHTML5",
+    "description": "Application for reading horoscopes",
     "launch_path": "/index.html",
     "icons":{
         "128":"/icon.png"
+    },
+    "developer": {
+        "name": "Przemysław Szelenberger",
+        "url": "https://rawgithub.com/th3mon/ffosad/master/index.html"
+    },
+    "installs_allowed_from": ["*"],
+    "locales": {
+        "pl": {
+            "description": "Aplikacja do przeglądania horoskopów"
+        }
+    },
+    "default_locale": "en",
+    "permissions": {
+        "systemXHR": {}
     }
 }
