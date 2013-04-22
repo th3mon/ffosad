@@ -69,28 +69,28 @@
     };
 
     request.onsuccess = function() {
-        var $installButton,
+        var $installButton = $("#instal-button"),
             $body = $("body");
 
         if (request.result) {
-            console.log("installed!");
+            $installButton.addClass("hidden");
         } else {
-            $installButton = $("#instal-button");
+            $installButton
+                .removeClass("hidden")
+                .on("click", function() {
+                    var $req = $(navigator.mozApps.install("/manifest.webbapp"));
 
-            $installButton.on("click", function() {
-                var $req = $(navigator.mozApps.install("/manifest.webbapp"));
-
-                $req
-                    .on("success", function() {
-                        $installButton.hide();
-                        $body.append("<h1/>", {
-                            text: "Hello!"
+                    $req
+                        .on("success", function() {
+                            $installButton.hide();
+                            $body.append("<h1/>", {
+                                text: "Hello!"
+                            });
+                        })
+                        .on("error", function() {
+                            alert("Couldn't install (" + errObj.code + ") " + errObj.message);
                         });
-                    })
-                    .on("error", function() {
-                        alert("Couldn't install (" + errObj.code + ") " + errObj.message);
-                    });
-            });
+                });
         }
     };
 

@@ -55,10 +55,14 @@
     background-position: 100% -256px;
 }
 
+.wrapper-instal-btn {
+    margin: 10px auto;
+}
 .btn-instal {
     display: block;
     margin: 0 auto;
 }
+
 .loading {
     position: relative;
 }
