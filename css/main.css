@@ -1,73 +1,58 @@
-.span-special {
-    width: 90px;
-    float: left;
-}
 .btns {
     list-style-type: none;
-    margin-right: auto;
-    margin-left: auto;
-}
-@media screen and (min-width: 320px) {
-    .btns {
-        width: 180px;    
-    }
-}
-@media screen and (min-width: 480px) {
-    .btns {
-        width: 360px;
-    }    
-}
-.btns:first-child {
-    margin-top: 10px;
+    margin: 0 auto;
+    overflow: hidden;
 }
 .btns li {
-    margin-left: 0;
+    float: left;
+    margin-right: 8px;
 }
-.btns li .btn-horoscope {
-    background: url("../icons.jpg") 0 0 no-repeat;
+.btns li:last-child {
+    margin-right: 0;
+}
+.btns .btn-horoscope {
+    background: url("../icons.png") 0 0 no-repeat;
     text-indent: -20000em;
     display: block;
-    width: 90px;
-    height: 90px;
+    width: 88px;
+    height: 86px;
 }
 
-.btns:nth-child(1) li:nth-child(1) .btn-horoscope {
-    background-position: -18px -22px;
+.btns .taurus {
+    background-position: -88px 0;
 }
-.btns:nth-child(1) li:nth-child(2) .btn-horoscope {
-    background-position: -143px -22px;
-}
-.btns:nth-child(1) li:nth-child(3) .btn-horoscope {
-    background-position: -264px -22px;
-}
-.btns:nth-child(1) li:nth-child(4) .btn-horoscope {
-    background-position: -391px -22px;
+.btns .gemini {
+    background-position: 100% 0px;
 }
 
-.btns:nth-child(2) li:nth-child(1) .btn-horoscope {
-    background-position: -18px -144px;
+.btns .cancer {
+    background-position: 0 -86px;
 }
-.btns:nth-child(2) li:nth-child(2) .btn-horoscope {
-    background-position: -143px -144px;
+.btns .leo {
+    background-position: -88px -86px;
 }
-.btns:nth-child(2) li:nth-child(3) .btn-horoscope {
-    background-position: -264px -144px;
-}
-.btns:nth-child(2) li:nth-child(4) .btn-horoscope {
-    background-position: -391px -144px;
+.btns .virgo {
+    background-position: -88px 100%;
 }
 
-.btns:nth-child(3) li:nth-child(1) .btn-horoscope {
-    background-position: -18px -267px;
+.btns .libra {
+    background-position: 0 -171px;
 }
-.btns:nth-child(3) li:nth-child(2) .btn-horoscope {
-    background-position: -143px -267px;
+.btns .scorpio {
+    background-position: -89px -171px;
 }
-.btns:nth-child(3) li:nth-child(3) .btn-horoscope {
-    background-position: -264px -267px;
+.btns .sagittarius {
+    background-position: 100% -171px;
 }
-.btns:nth-child(3) li:nth-child(4) .btn-horoscope {
-    background-position: -391px -267px;
+
+.btns .capricorn {
+    background-position: 0 -256px;
+}
+.btns .aquarius {
+    background-position: -88px -257px;
+}
+.btns .pisces {
+    background-position: 100% -256px;
 }
 
 .btn-instal {

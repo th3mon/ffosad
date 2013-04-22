@@ -75,8 +75,6 @@
         if (request.result) {
             console.log("installed!");
         } else {
-            $body.append("<button id='#instal-button' class='btn btn-instal'>install me</button>");
-
             $installButton = $("#instal-button");
 
             $installButton.on("click", function() {
