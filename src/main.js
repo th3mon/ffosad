@@ -79,7 +79,7 @@
             $installButton
                 .removeClass("hidden")
                 .on("click", function(e) {
-                    var $req = $(navigator.mozApps.install(baseURL + "/manifest.webbapp"));
+                    var $req = $(navigator.mozApps.install("https://raw.github.com/th3mon/ffosad/master/manifest.webapp"));
 
                     e.preventDefault();
 
