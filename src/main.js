@@ -69,7 +69,8 @@
     };
 
     request.onsuccess = function() {
-        var $installButton;
+        var $installButton,
+            $body = $("body");
 
         if (request.result) {
             console.log("installed!");
