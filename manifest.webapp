@@ -8,16 +8,12 @@
     },
     "developer": {
         "name": "Przemysław Szelenberger",
-        "url": "https://rawgithub.com/th3mon/"
+        "url": "https://github.com/th3mon/"
     },
-    "installs_allowed_from": ["*"],
     "locales": {
         "pl": {
             "description": "Aplikacja do przeglądania horoskopów"
         }
     },
-    "default_locale": "en",
-    "permissions": {
-        "systemXHR": {}
-    }
+    "default_locale": "en"
 }
